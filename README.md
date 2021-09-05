@@ -6,7 +6,7 @@
 #### Web Developer & UX Designer
 An energetic and technically advanced professional with the ability to manage the full production cycle of web development.
 
-Skills:  HTML / CSS / JS /  JQUERY /JPHP / BOOTSTRAP 5 / REACT / RESTFUL API'S
+**Skills**:  HTML / CSS / JS /  JQUERY /PHP / BOOTSTRAP 5 / REACT / RESTFUL API'S
 
 - 🔭 I’m currently working on A new project 
 - 🌱 I’m currently learning vue.js 
