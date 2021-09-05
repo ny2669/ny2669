@@ -1,12 +1,12 @@
 
+
 ![Web Developer & UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### Hi there 👋, Hi, My Name is Ny
 #### Web Developer & UX Designer
+An energetic and technically advanced professional with the ability to manage the full production cycle of web development.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-**Skills**:  HTML / CSS / JS / PHP/ 
+Skills:  HTML / CSS / JS /  JQUERY /JPHP / BOOTSTRAP 5 / REACT / RESTFUL API'S
 
 - 🔭 I’m currently working on A new project 
 - 🌱 I’m currently learning vue.js 
