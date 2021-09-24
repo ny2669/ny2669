@@ -1,6 +1,6 @@
 
 
-![Web Developer & UX Designer][<img src="https://www.pexels.com/photo/iphone-smartphone-internet-technology-7568301/" width="600px" height="300px">]
+![Web Developer & UX Designer]<img src="https://www.pexels.com/photo/iphone-smartphone-internet-technology-7568301/" width="600px" height="300px">
 
 ### Hi there 👋, My Name is Ny
 #### Web Developer & UX Designer
