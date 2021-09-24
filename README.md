@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Ny
-![](<img src="Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png">)
+![](<img src="/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png" width="600px" height="300px">)
 
 
 
