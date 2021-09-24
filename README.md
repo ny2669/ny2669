@@ -1,3 +1,15 @@
+### Hi there 👋,I'm Ny
+<img src="./images/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png">
+
+
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on projects 
+- 📫 How to reach me: ny_8@hotmail.co.uk 
+
 
 
 ![Web Developer & UX Designer]<img src="https://www.pexels.com/photo/iphone-smartphone-internet-technology-7568301/" width="600px" height="300px">
