@@ -1,6 +1,6 @@
 
 
-![Web Developer & UX Designer][<img src="https://www.canva.com/design/DAEq6LogT5o/view">]
+![Web Developer & UX Designer]<img src="https://www.canva.com/design/DAEq6LogT5o/view">
 
 ### Hi there 👋, My Name is Ny
 #### Web Developer & UX Designer
