@@ -1,6 +1,6 @@
 
 
-![Web Developer & UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer & UX Designer](https://www.canva.com/design/DAEq6LogT5o/view)
 
 ### Hi there 👋, Hi, My Name is Ny
 #### Web Developer & UX Designer
