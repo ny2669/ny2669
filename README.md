@@ -1,4 +1,19 @@
 ### Hi there 👋,I'm Ny
+
+### Hi there 👋, hi
+![](https://github.com/ny2669/ny2669/blob/4ba328389c10a3137e6021fffd885e8cb6aa62c8/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on projects 
+- 📫 How to reach me: ny_8@hotmail.co.uk 
+
+
+
+
+
 ![](<img src="https://github.com/ny2669/ny2669/blob/4ba328389c10a3137e6021fffd885e8cb6aa62c8/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png>)
 
 
