@@ -30,8 +30,9 @@ I am a full-stack web developer. I'm crazy about coding, problem-solving & I lov
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ny2669)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ny-jones-web-dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ny2669.github.io/portfolio-scroll/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ny2669.github.io/portfolio-scroll/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](http://)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg' alt='apache' height='40'>](http://)  
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ny2669&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ny2669&show_icons=true)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ny2669)  
 
