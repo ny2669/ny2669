@@ -1,5 +1,5 @@
 
-![](https://github.com/ny2669/ny2669/blob/4ba328389c10a3137e6021fffd885e8cb6aa62c8/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
+![](https://github.com/ny2669/ny2669/blob/main/github%20profile.png)
 
 # Ny Jones
 
