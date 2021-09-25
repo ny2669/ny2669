@@ -1,11 +1,13 @@
-### Hi there 👋,I'm Ny
+
 ![](https://github.com/ny2669/ny2669/blob/4ba328389c10a3137e6021fffd885e8cb6aa62c8/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+An energetic and technically advanced professional with the ability to manage the full production cycle of web development. and I love coffee
 
-Skills:  REACT / JS / HTML / CSS
+**Skills**:  HTML / CSS / JS /  JQUERY /PHP / BOOTSTRAP 5 / REACT / RESTFUL API'S
+
 
 - 🔭 I’m currently working on projects 
+- 🌱 I’m currently learning vue.js 
 - 📫 How to reach me: ny_8@hotmail.co.uk 
 
 
