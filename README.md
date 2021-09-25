@@ -19,7 +19,12 @@ An energetic and technically advanced professional with the ability to manage th
 
 I am a full-stack web developer. I'm crazy about coding, problem-solving & I love coffee 
 
-**Skills**: HTML / CSS/ REACT / JS / 
+
+
+**Skills and Experience**: HTML / CSS/ REACT / JS / 
+
+*![image](https://user-images.githubusercontent.com/69237753/134762274-f3c74cfd-b6b6-4bb9-a7ed-edfec6115165.png)
+
 
 - 🔭 I’m currently working on project a new project 
 - 🌱 I’m currently learning vue.js 
