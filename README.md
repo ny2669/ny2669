@@ -11,7 +11,7 @@ An energetic and technically advanced professional with the ability to manage th
 - 📫 How to reach me: ny_8@hotmail.co.uk 
 
 
-![Web Developer & UX Designer]<img src="https://www.pexels.com/photo/iphone-smartphone-internet-technology-7568301/" width="600px" height="300px">
+![Web Developer & UX Designer]
 
 ### Hi there 👋, My Name is Ny
 #### Web Developer & UX Designer
