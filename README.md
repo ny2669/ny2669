@@ -14,7 +14,7 @@
 
 ## Examples of work
 
-<img src="https://github.com/ny2669/ny2669/blob/main/_C__Users_ny_8_Desktop_black%2520jack_index.html(iPhone%206_7_8).png" width="300px">
+<a href="index.html"><img src="https://github.com/ny2669/ny2669/blob/main/_C__Users_ny_8_Desktop_black%2520jack_index.html(iPhone%206_7_8).png" width="300px"></a>
 
 ## Additional information
 
