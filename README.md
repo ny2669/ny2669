@@ -1,5 +1,5 @@
 
-![](https://github.com/ny2669/ny2669/blob/main/github%20profile.png)
+
 
 # Ny Jones
 
