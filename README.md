@@ -8,9 +8,9 @@
 
 
 ## Skills and Experience:
-* 💻 HTML, CSS, JS, RESTFUL API'S
-* ⚛ React
-* 🅿 Photoshop
+* 💻 HTML, CSS 
+* ⚛ React | Next| JavaScript| RESTFUL API'S
+* Bootstrap | Framer Motions | Mui | Figma
 
 ## Examples of work
 
@@ -19,7 +19,7 @@
 ## Additional information
 
 - 🔭 I’m currently working on project a new project 
-- 🌱 I’m currently learning vue.js 
+- 🌱 I’m currently learning Type-script 
 - 📫 How to reach me: ny_8@hotmail.co.uk 
 - ⚡ Fun fact: I use to be able to ride a unicycle 
 
