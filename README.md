@@ -1,7 +1,7 @@
 <img src='https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hdwss0tz73wly6y4vue8xlmwhlclrep9ur3kwp4r&rid=giphy.gif&ct=g' width='1200' height='300'/>
 
 <h1 align="left">Hi 👋, I'm Ny</h1>
-<h3 align="left">A passionate frontend developer from UK</h3>
+<h3 align="left">A passionate Frontend Web Developer | From The UK</h3>
 <img align='right' width='400' src='https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hdwss0tz73wly6y4vue8xlmwhlclrep9ur3kwp4r&rid=giphy.gif&ct=g'/>
 
 
